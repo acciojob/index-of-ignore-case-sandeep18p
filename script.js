@@ -9,13 +9,8 @@ function indexOfIgnoreCase(str, subStr) {
   }
 }
 
-// Please do not change the code below
+// Prompt the user to enter input
 const s1 = prompt("Enter s1:");
 const s2 = prompt("Enter s2:");
-alert(indexOfIgnoreCase(s1, s2));
-
-
-// Please do not change the code below
-const s1 = prompt("Enter s1:");
-const s2 = prompt("Enter s2:");
+// Call the function and display the result
 alert(indexOfIgnoreCase(s1, s2));
